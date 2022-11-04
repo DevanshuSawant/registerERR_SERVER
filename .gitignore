@@ -7,6 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+serviceAccountKey
+token
+
 node_modules
 dist
 dist-ssr
@@ -57,4 +60,5 @@ go.work
 
 # End of https://www.toptal.com/developers/gitignore/api/go
 
-serviceAccountKey.json
+
+
